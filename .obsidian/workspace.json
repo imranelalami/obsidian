@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ede6a312d807b220",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e22d87df0392db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3da40e144c7154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/linux/COMMANDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75ab780f4931b210",
+    "type": "split",
+    "children": [
+      {
+        "id": "e672090c1c029fc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "834b60186053603e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "604c2384fbfa4d27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4eca2eb8122a7bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5004348754883
+  },
+  "right": {
+    "id": "f5ee7607b94bd1e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "666da71500b8d81e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2677cbf0724c0fe8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/linux/COMMANDS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d49353ccd2d510c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/linux/COMMANDS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03dbc018eed6f8f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a42ba1331f147f88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/linux/COMMANDS.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "0e3da40e144c7154",
+  "lastOpenFiles": [
+    "Porgramming/BASH.md",
+    "Porgramming/GO.md",
+    "daily/linux/COMMANDS.md",
+    "ATTACHEMENTS/Screenshot from 2024-01-12 20-38-22.png",
+    "ATTACHEMENTS/Screenshot from 2024-01-11 20-48-42.png",
+    "ATTACHEMENTS/git-github-reference.pdf",
+    "Porgramming",
+    "daily/Programming.md",
+    "daily/COURSES/learning how to learn.md",
+    "daily/BUSINESS/Interviews.md",
+    "daily/hi.js~",
+    "daily/hi.js",
+    "daily/PROGRAMMING/logic.md",
+    "daily/linux",
+    "daily/PROGRAMMING/01 oujda.md",
+    "daily/PROGRAMMING/GOALS.md",
+    "daily/PROGRAMMING/LANGUAGES.md",
+    "daily/PROGRAMMING/Untitled.md",
+    "daily/PROGRAMMING/UNICODE.md",
+    "daily/PROGRAMMING/ASCII.md",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 22-14-13.png",
+    "daily/PROGRAMMING/**Data**.md",
+    "daily/PROGRAMMING/data.md",
+    "daily/PROGRAMMING/link text.md",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 20-15-48.png",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 19-50-53.png",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 19-48-35.png",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 18-39-08.png",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 18-32-20 1.png",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 18-33-13.png",
+    "ATTACHEMENTS/Screenshot from 2023-12-19 18-32-20.png",
+    "ATTACHEMENTS",
+    "daily/Notes/Habits.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "daily/2023-12-14.md",
+    "daily/2023-12-15.md",
+    "daily/2023-12-13.md",
+    "daily/2023-12-19.md",
+    "daily/2023-12-18.md",
+    "daily/2023-10-15.md",
+    "daily/2023-10-17.md",
+    "daily/2023-11-29.md",
+    "daily/2023-10-13.md",
+    "daily/PROGRAMMING",
+    "daily/BUSINESS",
+    "daily/COURSES",
+    "daily"
+  ]
+}
