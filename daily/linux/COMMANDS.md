@@ -5,6 +5,8 @@
   Set Up Git:
    git config --global user.name "Your Name"
    git config --global user.email "youremail@domain.com"
+   
+___
 
 git rm -r --cached . = remove all the added to staged faze 
 git add -A = add all folders back and forth 
@@ -63,6 +65,8 @@ o = make a new line an+ go insert
 O = make a new line up an+ o insert
 
 
-# bash
-echo "hello imran" | tr m n = replace all m letters with n letters
-echo "hello imran" | sed 's/ /n/g' = replace all the space with n 
+# terminal
+chown = change ownership of a file (like chmod)
+
+chown -R imran:imran Downloads = change the ownership and the group of the folder Downloads
+
