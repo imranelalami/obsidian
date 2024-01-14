@@ -1,6 +1,6 @@
 # git
 
-  my tokn : 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
+  my tokn : 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
 
   Set Up Git:
    git config --global user.name "Your Name"
@@ -33,7 +33,7 @@ git pull = pull all the changes in the remote repo to the local one
 
   FIX: "Support for password authentication was removed. Please use a personal access token instead :
    git remote set-url origin https://tokenhere@github.com/user_name/repo_name.git :
-      git remote set-url origin https://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@github.com/imranelalami/myjourney.git
+      git remote set-url origin https://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@github.com/imranelalami/obsidian.git
 
 ![[git-github-reference.pdf]]
 
